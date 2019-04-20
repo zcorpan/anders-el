@@ -1,0 +1,17 @@
+{
+  "name": "anders-el",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified (TODO)\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zcorpan/anders-el.git"
+  },
+  "author": "Simon Pieters",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.8.2"
+  }
+}
