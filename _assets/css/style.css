@@ -1,5 +1,5 @@
-html { font-family: system-ui, sans-serif; line-height: 1.5; margin: 0 5%; background-color: #dde; color: black; }
-body { max-width: 50em; margin: 1em auto; padding: 2em; background-color: white; box-shadow: 0 0 5em gray; }
+html { font-family: system-ui, sans-serif; line-height: 1.5; margin: 0 2.5%; background-color: #dde; color: black; }
+body { max-width: 50em; margin: 1em auto; padding: 1.5em; background-color: white; box-shadow: 0 0 5em gray; }
 body > :first-child { margin-top: 0; }
 body > :last-child { margin-bottom: 0; }
 img { max-width: 100%; }

@@ -3,6 +3,8 @@ layout: page.njk
 title: Anders El & Alltjänst
 ---
 
+![](/_assets/img/header.jpg)
+
 # Anders El & Alltjänst
 
 Vi utför elinstallation samt reparationer & service inom lantbruk, småindustri och den privata sektorn.
