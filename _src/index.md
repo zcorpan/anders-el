@@ -21,7 +21,7 @@ Arbetsområde: Örebro län.
 
 Telefon: [0705-44 62 09](tel:+46705446209)
 
-Epost: [anders.el@telia.com](mailto:anders.el@telia.com)
+Epost: <a href="mailto:anders&#x40;andersel.se">anders<wbr>@andersel.se</a>
 
 Adress:<br>
 Anders El & Alltjänst<br>
