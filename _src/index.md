@@ -3,12 +3,6 @@ layout: page.njk
 title: Anders El & Alltjänst | Elektriker i Stora Mellösa
 ---
 
-<header>
-
-![](/_assets/img/header.jpg)
-
-</header>
-
 # Anders El & Alltjänst
 
 Vi utför elinstallation samt reparationer & service inom lantbruk, småindustri och den privata sektorn.
