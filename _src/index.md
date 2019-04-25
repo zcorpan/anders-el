@@ -19,6 +19,8 @@ Arbetsområde: Örebro län.
 
 ## Kontakt
 
+Innehavare: Anders Palmqvist
+
 Telefon: [0705-44 62 09](tel:+46705446209)
 
 Epost: <a href="mailto:anders&#x40;andersel.se">anders<wbr>@andersel.se</a>
