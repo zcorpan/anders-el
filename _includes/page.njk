@@ -1,9 +1,12 @@
 <!doctype html>
 <html lang=sv>
 <meta charset=utf-8>
-<meta name=viewport content="width=device-width, initial-scale=1">
+<meta name=viewport content="width=device-width, initial-scale=1, viewport-fit=cover">
 <style>
 html { font-family: system-ui, sans-serif; line-height: 1.5; margin: 0 2.5%; background-color: #a8b0c0; color: black; }
+@supports(margin: max(0px)) {
+  html { margin-left: max(2.5%, env(safe-area-inset-left)); margin-right: max(2.5%, env(safe-area-inset-right)); }
+}
 body { max-width: 64em; margin: 1em auto; padding: 0 1.5em 1em; background-color: white; box-shadow: 0 0 5em rgba(0, 0, 0, 0.4); border-radius: 5px; }
 img { max-width: 100%; height: auto; border: none; }
 img.banner { max-width: none; width: calc(100% + 3rem); margin: 0 -1.5em 0 -1.5em; border-top-left-radius: 5px; border-top-right-radius: 5px; }
