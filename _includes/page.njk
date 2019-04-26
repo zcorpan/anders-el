@@ -3,13 +3,13 @@
 <meta charset=utf-8>
 <meta name=viewport content="width=device-width, initial-scale=1, viewport-fit=cover">
 <style>
-html { font-family: system-ui, sans-serif; line-height: 1.5; margin: 0 2.5%; background-color: #a8b0c0; color: black; }
+html { font-family: system-ui, sans-serif; line-height: 1.5; margin: 0 2.5% 6em; background-color: #a8b0c0; color: black; }
 @supports(margin: max(0px)) {
   html { margin-left: max(2.5%, env(safe-area-inset-left)); margin-right: max(2.5%, env(safe-area-inset-right)); }
 }
-body { max-width: 64em; margin: 1em auto; padding: 0 1.5em 1em; background-color: white; box-shadow: 0 0 5em rgba(0, 0, 0, 0.4); border-radius: 5px; }
-header { padding-top: 46.75%; /* padding hack; aspect ratio of img.banner for stable layout while loading */ }
-img.banner { display: block; width: calc(100% + 3rem); margin: -46.75% -1.5em 0 -1.5em; border-top-left-radius: 5px; border-top-right-radius: 5px; }
+body { max-width: 64em; margin: 0 auto 1em; padding: 0 1.5em 1em; background-color: white; box-shadow: 0 1em 5em rgba(0, 0, 0, 0.4); border-bottom-right-radius: 5px; border-bottom-left-radius: 5px; }
+header { margin-left: -1.5em; margin-right: -1.5em; padding-top: 46.75%; /* padding hack; aspect ratio of img.banner for stable layout while loading */ }
+img.banner { display: block; width: 100%; margin-top: -46.75%; }
 img.me { float: right; margin: 0 0 1em 1em; border-radius: 50%; border: 4px solid #ddd; }
 img { border: none; }
 h1, h2 { color: darkgoldenrod; line-height: 0.9; }
