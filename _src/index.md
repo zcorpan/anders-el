@@ -14,15 +14,6 @@ Arbetsområde: Örebro län.
 <div class="sections">
 <section>
 
-## Samarbets&shy;partners
-
-[<img alt="Fiskarhedenvillan" src="/_assets/img/fiskarhedenvillan.svg" width="207" height="20">](https://fiskarhedenvillan.se/)
-
-[<img alt="Svenska Eurovac AB" src="/_assets/img/eurovac.png" width="187" height="39">](https://eurovac.nu/)
-
-</section>
-<section>
-
 ## Kontakt
 
 Innehavare: Anders Palmqvist
@@ -35,6 +26,15 @@ Adress:<br>
 Anders El & Alltjänst<br>
 Mörby 706<br>
 715 92 Stora Mellösa
+
+</section>
+<section>
+
+## Samarbets&shy;partners
+
+[<img alt="Fiskarhedenvillan" src="/_assets/img/fiskarhedenvillan.svg" width="207" height="20">](https://fiskarhedenvillan.se/)
+
+[<img alt="Svenska Eurovac AB" src="/_assets/img/eurovac.png" width="187" height="39">](https://eurovac.nu/)
 
 </section>
 <section>
