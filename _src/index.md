@@ -5,13 +5,15 @@ title: Anders El & Alltjänst | Elektriker i Stora Mellösa
 
 # Anders El & Alltjänst
 
+<img alt="Hej!" src="/_assets/img/anders.jpg" width="128" height="128" class="me">
+
 Vi utför elinstallation samt reparationer & service inom lantbruk, småindustri och den privata sektorn.
 
 Vi installerar även centraldammsugare.
 
 Arbetsområde: Örebro län.
 
-<div class="sections">
+<footer>
 <section>
 
 ## Kontakt
@@ -44,4 +46,4 @@ Mörby 706<br>
 Vi använder [Google Analytics](https://policies.google.com/technologies/partner-sites) för att mäta hur besökare använder den här webbplatsen.
 
 </section>
-</div>
+</footer>
