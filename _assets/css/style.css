@@ -3,7 +3,7 @@ body { max-width: 64em; margin: 1em auto; padding: 1.5em; background-color: whit
 body > :first-child { margin-top: 0; }
 body > :last-child { margin-bottom: 0; }
 .sections { display: grid; grid-template-columns: repeat( auto-fit, minmax(15em, 1fr) ); grid-column-gap: 2em; }
-img { max-width: 100%; }
+img { max-width: 100%; border: none; }
 header img { width: 100%; max-width: none; transition: margin 0.3s, width 0.3s; }
 @media (max-width: 35em) { header img { margin: -1.5rem -1.5rem 0 -1.5rem; width: calc(100% + 3rem); } }
 h1, h2 { font-weight: normal; color: darkgoldenrod; line-height: 1.1; }
