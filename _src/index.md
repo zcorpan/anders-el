@@ -32,7 +32,7 @@ Mörby 706<br>
 </section>
 <section>
 
-## Samarbets&shy;partners
+## Leverantörer
 
 [<img alt="Fiskarhedenvillan" src="/_assets/img/fiskarhedenvillan.svg" width="207" height="20">](https://fiskarhedenvillan.se/)
 
