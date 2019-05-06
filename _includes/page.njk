@@ -2,8 +2,14 @@
 <html lang=sv>
 <meta charset=utf-8>
 <meta name=viewport content="width=device-width, initial-scale=1, viewport-fit=cover">
+<link rel=icon href="/_assets/img/icon.png">
 <style>
-html { font-family: system-ui, sans-serif; line-height: 1.5; margin: 0 2.5% 0; padding-bottom: 6em; background-color: #a8b0c0; background-image: linear-gradient(to bottom, #a8b0c0, #a8b0c0); /* Safari applies background-image but not background-color to the overscroll area... */ color: black; }
+html { font-family: system-ui, sans-serif; line-height: 1.5; margin: 0 2.5% 0; padding-bottom: 6em; background-color: #a8b0c0; color: black;
+  /* https://leaverou.github.io/css3patterns/#blueprint-grid */
+  background-image: linear-gradient(rgba(255,255,255,0.2) 2px, transparent 2px), linear-gradient(90deg, rgba(255,255,255,0.2) 2px, transparent 2px), linear-gradient(rgba(255,255,255,.2) 1px, transparent 1px), linear-gradient(90deg, rgba(255,255,255,.2) 1px, transparent 1px);
+  background-size: 100px 100px, 100px 100px, 20px 20px, 20px 20px;
+  background-position: -2px -2px, -2px -2px, -1px -1px, -1px -1px;
+}
 @supports(margin: max(0px)) {
   html { margin-left: max(2.5%, env(safe-area-inset-left)); margin-right: max(2.5%, env(safe-area-inset-right)); }
 }
