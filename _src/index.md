@@ -32,7 +32,9 @@ Mörby 706<br>
 </section>
 <section>
 
-## Leverantörer
+## Samarbets&shy;partners
+
+[<img alt="Schneider Electric" src="/_assets/img/schneider-electric.png" width="210" height="58">](https://www.se.com/se/sv/)
 
 [<img alt="Fiskarhedenvillan" src="/_assets/img/fiskarhedenvillan.svg" width="207" height="20">](https://fiskarhedenvillan.se/)
 

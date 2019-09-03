@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified (TODO)\""
+    "build": "npx @11y/eleventy",
+    "serve": "npx @11y/eleventy --serve",
+    "debug": "DEBUG=* npx @11y/eleventy"
   },
   "repository": {
     "type": "git",
