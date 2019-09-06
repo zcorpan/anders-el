@@ -40,6 +40,8 @@ Mörby 706<br>
 
 [<img alt="Hager" src="/_assets/img/hager.svg" width="128" height="43">](https://www.hager.se/)
 
+[<img alt="Plejd" src="/_assets/img/plejd.svg" width="66" height="50">](https://www.plejd.com/)
+
 [<img alt="Fiskarhedenvillan" src="/_assets/img/fiskarhedenvillan.svg" width="207" height="20">](https://fiskarhedenvillan.se/)
 
 [<img alt="Svenska Eurovac AB" src="/_assets/img/eurovac.png" width="187" height="39">](https://eurovac.nu/)
