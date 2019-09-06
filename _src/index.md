@@ -36,6 +36,10 @@ Mörby 706<br>
 
 [<img alt="Schneider Electric" src="/_assets/img/schneider-electric.png" width="210" height="58">](https://www.se.com/se/sv/)
 
+[<img alt="Schneider Electric" src="/_assets/img/garo.svg" width="125" height="46">](http://www.garo.se/)
+
+[<img alt="Hager" src="/_assets/img/hager.svg" width="128" height="43">](https://www.hager.se/)
+
 [<img alt="Fiskarhedenvillan" src="/_assets/img/fiskarhedenvillan.svg" width="207" height="20">](https://fiskarhedenvillan.se/)
 
 [<img alt="Svenska Eurovac AB" src="/_assets/img/eurovac.png" width="187" height="39">](https://eurovac.nu/)
