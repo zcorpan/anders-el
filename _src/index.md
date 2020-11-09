@@ -13,6 +13,8 @@ Vi installerar även centraldammsugare.
 
 Arbetsområde: Örebro län.
 
+<p class="follow">Följ oss på <a href="https://www.facebook.com/anderselochalltjanst/">Facebook</a>!</p>
+
 <footer>
 <section>
 
